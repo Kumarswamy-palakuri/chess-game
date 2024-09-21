@@ -36,6 +36,6 @@ git clone https://github.com/Kumarswamy-palakuri/chess-game.git
 
 <h3> Demo </h3>
 
-<a href="https://sonamgupta136.github.io/Chess-Game/"> Demo </a>
+<a href="https://kumarswamy-palakuri.github.io/chess-game/"> Demo </a>
 
 <br>
