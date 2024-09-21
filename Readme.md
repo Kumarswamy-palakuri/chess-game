@@ -30,7 +30,7 @@ git clone https://github.com/Kumarswamy-palakuri/chess-game.git
 
 <h3> Screenshot </h3>
 
-<img src="https://user-images.githubusercontent.com/66966120/125582506-237c66d8-8ac8-4bd1-b8f8-77d7bc2978ef.png" alt="Screenshot (22)" style="max-width:100%;">
+![image](https://github.com/user-attachments/assets/46983791-9244-46eb-8e47-6a1abc8b2c15)
 
 
 
